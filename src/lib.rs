@@ -1,3 +1,4 @@
+#![no_std]
 //! Macros for easy operator overloading.
 //! 
 //! The primary macro to learn is `impl_op!(<op> <closure>);`
